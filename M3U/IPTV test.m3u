@@ -1,0 +1,326 @@
+#EXTINF:-1,AXN HD
+https://streamer1.nexgen.bz/AXN/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="USA OS" tvg-logo="http://ky-iptv.com:80/images/227c5a7767e2742104de1c193474174b.png",HBO XTREME FHD
+http://nv1connect.com:80/tamtam/tjfYkCbP3s/3802
+#EXTINF:-1 tvg-id="US: BEIN SPORTS" tvg-name="USA Bein Sports UHD" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="ESPN & BEIN SPORTS",USA Bein Sports UHD
+http://supersonictv.live:8080/945213/876115/22187
+#EXTINF:-1 tvg-name="SuperSports Psl" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS OS",SUPER SPORT FOOTBALL PLUS
+http://hidra.live:80/wrrlcbin/qkOJg16c12/34675
+#EXTINF:-1 tvg-name="SuperSports Psl" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS OS",SUPER SPORT FOOTBALL PLUS
+http://supersonictv.live:8080/102413/544469/47645
+#EXTINF:-1 tvg-name="SuperSports Psl" tvg-logo="https://i.imgur.com/MpuLYAf.jpg" group-title="SPORTS OS",SUPER SPORT FOOTBALL PLUS
+http://kmkus.wanicelife.com:8880//live/3ca05163n16/76tgs8vsv/59225.ts
+#EXTINF:-1 group-title="TRINIDAD" tvg-id="CCNTV6.tt" tvg-logo="https://i.imgur.com/lPx95FN.png",TIN
+https://cdn01.amplia.tv/LIVE/DTURBO/stream_multi.m3u8
+#EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnc3_tt.png" ,CNC3
+http://170.246.160.2/ttorigin01/live/smil:SYNERGY.smil/playlist.m3u8
+http://170.246.160.2/ttorigin03/live/smil:FOX_NEWS.smil/playlist.m3u8
+https://cdn01.amplia.tv/LIVE/COOK/stream_iptv_2500k.m3u8
+https://cdn01.amplia.tv/LIVE/DISN/stream_iptv_2500k.m3u8
+https://cdn02.amplia.tv/LIVE/NGC/stream_iptv_2500k.m3u8
+https://cdn02.amplia.tv/LIVE/SEC/stream_iptv_2500k.m3u8
+
+working
+https://cdn01.amplia.tv/LIVE/SYNERGY/stream_multi.m3u8
+https://dl.dropboxusercontent.com/s/4l9bqzext7yxdho/Black%20Widow.mp4
+http://iptvcdn.airlinktt.co/ttorigin01/live/smil:SPORTSMAX_2.smil/playlist.m3u8
+
+group-title="Adults 24-7"
+group-title="Adults"
+group-title="24/7 Adult"
+group-title="VOD Adults"
+group-title="Private (18+) Vods"
+group-title="Adults (18+)"
+
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://ujm.from-in.com/panel/imageicon/56e863a.png",BBO Classic HD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/86150.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://ujm.from-in.com/panel/imageicon/7b6ab8b.png",BBO HD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/86148.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://mobiletv.mobibase.com/html/logo/hd/channel_ld_734.png",Bollywood Classic
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/123916.m3u8
+#EXTINF:-1 group-title="BOLLYWOOD" tvg-logo="http://mobiletv.mobibase.com/html/logo/hd/channel_ld_734.png",Bollywood HD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/123915.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/5329167.png",& Pictures FHD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/139.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/a8337e0.png",& TV FHD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/140.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/a8337e0.png",& TV HD USA
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/141.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/923856a.png",9x Jalwa
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/142.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/0759b67.png",9xm
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/143.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/81d6b53.png",Aaj Tak FHD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/144.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/81d6b53.png",Aaj Tak UK
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/145.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/887fb6b.png",Aastha Bhajan
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/146.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/20cbc6e.png",Aastha TV
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/147.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/20cbc6e.png",Aastha TV UK
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/148.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/56eaab9.png",ABP News India
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/149.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/552f92c.png",Animal Planet Hindi
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/151.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/27cf79e.png",B4U Kadak
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/35383.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/127afc4.png",B4U Movies
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/152.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/e1ee774.png",B4U Music
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/153.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/d11d123.png",B4U Plus
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/154.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/56e863a.png",BBO Classic HD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/86150.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/7b6ab8b.png",BBO HD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/86148.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://mobiletv.mobibase.com/html/logo/hd/channel_ld_734.png",Bollywood Classic
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/123916.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://mobiletv.mobibase.com/html/logo/hd/channel_ld_734.png",Bollywood HD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/123915.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/53b880f.png",CNBC Awaaz FHD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/86147.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://147.182.195.61/panel/imageicon/21a37a8.png",CNBC TV 18
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/49404.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/5b37a02.png",CNN News 18 FHD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/28125.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/6ae38c6.png",Colors Cineplex Bollywood FHD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/62412.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/711d60e.png",Colors Cineplex FHD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/470.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/99398d7.png",Colors Cineplex HD UK
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/156.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/4a7b988.png",Colors Cineplex Superhits FHD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/62413.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://tv.cloudcdn.online/images/biggboss.png",Colors Bigg Boss Main CAM
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/57.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/ad083a7.png",Colors Infinity FHD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/157.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://tv.cloudcdn.online/images/biggboss.png",Colors Bigg Boss Garden CAM
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/59.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/c9e476d.png",Colors Rishtey FHD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/158.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/c9e476d.png",Colors Rishtey UK
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/159.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/4a9ad93.png",Colors TV FHD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/160.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/4a9ad93.png",Colors TV FHD.
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/36129.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/4a9ad93.png",Colors TV FHD UK
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/161.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/794387b.png",DD News
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/163.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/1ae366e.png",Discovery HD Hindi FHD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/164.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/bfd984c.png",Discovery Science Hindi
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/166.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/766d3d6.png",Divyang News
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/38555.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/16520b2.png",Divya TV
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/33135.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/5c49268.png",ET Now FHD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/167.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/b35aa95.png",Food Food
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/169.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/c5f05af.png",GNT News
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/36272.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/5007540.png",Hare Krsna TV
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/33132.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/c2f5c44.png",HBO
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/49858.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/c65ab6d.png",India News
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/33324.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/0b1f1bc.png",India Today
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/36126.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/71881e5.png",India TV
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/171.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/5007540.png",Krishna Vani
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/29210.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/c3b2eec.png",Mastiii TV
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/172.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/33145d2.png",Movies Now
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/162.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/ee6b44e.png",MTV Beats
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/173.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/78c8cc9.png",MTV HD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/174.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/61eb5d5.png",Music India
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/175.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/a00dd83.png",Nat Geo English
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/125057.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/a00dd83.png",Nat Geo Hindi
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/176.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/1380d86.png",Nat Geo Wild Hindi
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/177.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/f7d3859.png",NDTV 24X7
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/29208.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/b7ae6a0.png",NDTV India
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/178.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/593385a.png",NDTV Profit
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/179.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/cd686e0.png",News18
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/61901.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/17135d6.png",News Nation
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/29702.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/7380374.png",NewsX India
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/36127.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/5f193ed.png",Param Satta TV
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/33150.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/3ae517f.png",Republic TV
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/33168.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://tv.cloudcdn.online/images/republicbharat.png",Republic Bharat
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/126084.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/bb811d4.png",Sanskar TV
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/181.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/08c1472.png",Satsang TV
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/182.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/54d97b8.png",Sony Max 2 FHD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/183.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/ad286ec.png",Sony Max 2 UK
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/40479.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/d052853.png",Sony Max FHD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/184.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/d052853.png",Sony Max FHD.
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/185.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/d14875b.png",Sony Max HD UK
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/186.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/dc6e2ef.png",Sony Pal FHD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/188.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/0deace4.png",Sony Pix FHD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/189.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/dbd9534.png",Sony Sab FHD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/191.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/2e77ad4.png",Sony Sab FHD.
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/260.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/dbd9534.png",Sony Sab HD UK
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/192.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/8046270.png",Sony TV FHD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/193.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/8046270.png",Sony TV FHD.
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/12356.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/8046270.png",Sony TV FHD UK
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/194.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/73c26e8.png",Sony Wah FHD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/187.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/2b7f152.png",Star Bharat FHD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/195.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/4b1400a.png",Star Bharat FHD UK
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/305.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/770f5fd.png",Star Gold 2 FHD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/33165.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/770f5fd.png",Star Gold FHD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/196.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/770f5fd.png",Star Gold FHD UK
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/12358.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/9ccc18c.png",Star Gold Select FHD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/197.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/343394a.png",Star Movies FHD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/198.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/58a7cb9.png",Star Movies Select FHD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/199.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/f6bcb3a.png",Star Plus FHD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/200.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/4833657.png",Star Plus FHD.
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/12357.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/534d0da.png",Star Plus FHD UK
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/201.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/d6ddb63.png",Star Utsav
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/12364.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/b4c4bfd.png",Swar Shree
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/61658.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/e83cabf.png",Times Now FHD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/204.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/1098de6.png",TLC World HD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/205.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/7b43b7a.png",TV NRI
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/33136.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/bec6fb2.png",WION NEWS FHD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/85499.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/5f10964.png",Zee Action
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/207.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/75016fe.png",Zee Anmol
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/208.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/86b8496.png",Zee Anmol Cinema
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/209.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/597c1ee.png",Zee Bollywood
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/210.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/f37e353.png",Zee Business
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/211.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/47ceb8d.png",Zee Café FHD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/212.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/9008fbf.png",Zee Cinema FHD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/213.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/c466520.png",Zee Cinema HD.
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/12359.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/330f27f.png",Zee Cinema UK
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/214.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/187b8c7.png",Zee Classic
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/43379.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/a940f8d.png",Zee Hindustan
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/25528.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/9ece589.png",Zee News
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/216.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/f0673bc.png",Zee TV FHD UK
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/218.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/550c14d.png",Zee TV FHD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/217.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/6248328.png",Zee TV FHD.
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/12301.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/b7147ce.png",Zee Zest FHD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/29704.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/d8b8382.png",Zing TV
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/219.m3u8
+#EXTINF:-1 group-title="INDIA" tvg-logo="http://ujm.from-in.com/panel/imageicon/03b20a2.png",Zoom TV
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/121.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/aa7be678.jpg",Baby TV
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/242.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/a5641735.jpg",Boomerang
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/243.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/cartoonito.jpg",Cartoonito
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/247.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/cartoonnetwork.jpg",Cartoon Network Hindi
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/244.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/cartoonnetwork.jpg",Cartoon Network UK FHD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/245.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/cartoonnetwork.jpg",Cartoon Network USA FHD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/246.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/CBeebies.png",CBeeBies FHD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/248.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/9ce4f63e",Disney Channel FHD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/249.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/c1280ca4",Disney Junior FHD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/250.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/4fc2a98b",Disney XD FHD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/251.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://logopond.com/logos/b683ab7538c677bf1bc93848a9545644.png",KIDS TV
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/123913.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://images.sftcdn.net/images/t_app-icon-s/p/1277436f-e4cc-4485-bbe9-d65039f78028/1005123036/kids-tv-gd3-logo",KIDS TV NURSERY RHYMES AND BABY SONGS
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/123914.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/a807ee7a",Nickelodeon FHD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/254.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/dc96b2fb",Nick Jr. FHD
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/252.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/8c0b7abf",Nick Jr. too
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/253.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/bbb73c52.jpg",NickToons
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/255.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/POGOHINDI.png",Pogo
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/256.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/d722a848",Pop
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/257.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epgguide.net/icon/popmax.uk.png",POP MAX+1
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/38625.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2017/11/nick-and-sonic-logos-1-2.jpg",Sonic Nickelodeon
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/40476.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/panel/imageicon/065352c.png",Sony YAY!
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/78849.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/panel/imageicon/88d83eb.png",TeleToon
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/72428.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/5d74c008",Tiny Pop
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/259.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/panel/imageicon/016dcb7.png",Treehouse TV
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/102888.m3u8
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://tv.cloudcdn.me/images/af1466fbx.png",WOW KID
+http://tv.cloudcdn.me/live/00:1A:79:13:65:70/3453/91169.m3u8
