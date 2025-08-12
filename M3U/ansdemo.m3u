@@ -16,7 +16,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00308-magnoliapicture-cinelife-tcl/
 #EXTINF:-1 group-title="USA" tvg-id="cw11kvii.us" tvg-logo="https://static.epg.best/us/KOMUCW.us.png",CW11 HD*TR_Only
 http://170.246.160.2/ttorigin03/live/smil:CW11.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://image.roku.com/developer_channels/prod/31170f949c1bfbac7a65d6da0d8c0bcc382e0f66ad93e3ca856b94857ea091a0.png",STIRR Comedy Dynamics
-https://comedydynamics-tcl.amagi.tv/playlist.m3u8
+https://cineverse.g-mana.live/media/398ffc79-3077-465f-9243-dc339de96212/mainManifest.m3u8
 #EXTINF:-1 group-title="Pluto-USA" tvg-id="" tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png",Pluto TV Action
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac632-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9bd2e9c0-393b-484b-b5bc-b1869a276513
 #EXTINF:-1 group-title="USA" tvg-logo="https://images.samsung.com/is/image/samsung/assets/nz/tvs/smart-tv/samsung-tv-plus/all-channels/RCM-Logo-Circle_200.png",RCM
