@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="TRINIDAD" tvg-id="CNC TV3 - CNC3.tt" tvg-logo="https://static.epg.best/tt/CNCTV3.tt.png",CNC3*TR_Only
+#EXTINF:-1 group-title="TRINIDAD" tvg-id="CNC3.tt" tvg-logo="https://static.epg.best/tt/CNCTV3.tt.png",CNC3*TR_Only
 http://170.246.160.2/ttorigin01/live/smil:CNC3.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-id="ieTV Channel 1 - ieTV.tt" tvg-logo="https://i.pinimg.com/originals/c6/13/81/c6138176971c6df4c6b6c880b3ba757a.jpg",IETV*TR_Only
 http://170.246.160.2/ttorigin03/live/smil:IETV.smil/chunklist_b2000000.m3u8
@@ -10,7 +10,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 #EXTINF:-1 group-title="USA" tvg-id="bet.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BET_Logo.svg/200px-BET_Logo.svg.png",BET East*TR_Only
 http://170.246.160.2/ttorigin03/live/smil:BET.smil/chunklist_b2000000_slen.m3u8
 #EXTINF:-1 group-title="USA" tvg-id="buzzertv.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/512px-Buzzr_logo.svg.png",BUZZR
-https://buzzr-samsungus.amagi.tv/playlist.m3u8
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812bfbe4ced4f7b601b12e6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=23022078-db68-4a8c-ad1c-683fb029b53d
 #EXTINF:-1 group-title="USA" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/6f/a6/bf/6fa6bff4-2527-6c5d-1bc1-09e35b35440a/source/512x512bb.jpg",CineLife
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00308-magnoliapicture-cinelife-tcl/playlist.m3u8
 #EXTINF:-1 group-title="USA" tvg-id="cw11kvii.us" tvg-logo="https://static.epg.best/us/KOMUCW.us.png",CW11 HD*TR_Only
@@ -36,14 +36,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c363ac9e
 #EXTINF:-1 group-title="KIDS" tvg-id="LEGOKidsTV.us" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/414vUJZ9MfL.png",LEGO Channels 
 https://dltiqboxjw21d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evri8jwgwmxus/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 group-title="SPORTS" tvg-id="bigtennetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/1200px-Big_Ten_Network_Logo.svg.png",Big Ten Network
-http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+https://tvpass.org/live/BTN/hd
 #EXTINF:-1 group-title="SPORTS" tvg-id="realmadridtv.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Realmadrid_Television_Logo.svg/330px-Realmadrid_Television_Logo.svg.png",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Black_Panther_Wakanda_Forever_soundtrack.jpg/220px-Black_Panther_Wakanda_Forever_soundtrack.jpg",Black Panther: Wakanda Forever
 https://dl.dropbox.com/s/redsfx9dtpnq5ep/BL4CK%20P4NGH3R.mkv
-#EXTINF:-1 group-title="INSTANTSTREAM" tvg-logo="https://raw.githubusercontent.com/anssoftwaresolutions/images/main/Super%2099%20logo.png",INSTANTSTREAM AD1
-https://raw.githubusercontent.com/anssoftwaresolutions/media/main/video/AD1.mp4
-#EXTINF:-1 group-title="INSTANTSTREAM" tvg-logo="https://raw.githubusercontent.com/anssoftwaresolutions/images/main/Super%2099%20logo.png",INSTANTSTREAM AD2
-https://raw.githubusercontent.com/anssoftwaresolutions/media/main/video/AD2.mp4
-#EXTINF:-1 group-title="INSTANTSTREAM" tvg-logo="https://raw.githubusercontent.com/anssoftwaresolutions/images/main/Super%2099%20logo.png",NOTICE PLAY ME
-https://raw.githubusercontent.com/anssoftwaresolutions/media/main/INSTANTSTREAM%20Update%20Notice.mp4
