@@ -1,20 +1,20 @@
 #EXTM3U
 #EXTINF:-1 group-title="TRINIDAD" tvg-id="CNC3.tt" tvg-logo="https://static.epg.best/tt/CNCTV3.tt.png",CNC3
-https://131.72.76.184/ttorigin01/live/smil:CNC3.smil/chunklist_b2000000.m3u8
+http://131.72.76.184/ttorigin01/live/smil:CNC3.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-id="ieTV Channel 1 - ieTV.tt" tvg-logo="https://i.pinimg.com/originals/c6/13/81/c6138176971c6df4c6b6c880b3ba757a.jpg",IETV
-https://131.72.76.184/ttorigin03/live/smil:IETV.smil/chunklist_b2000000.m3u8
+http://131.72.76.184/ttorigin03/live/smil:IETV.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-id="shemaroomarathibana.in" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png",Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 group-title="USA" tvg-id="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="USA" tvg-id="bet.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/BET_Logo.svg/200px-BET_Logo.svg.png",BET East
-https://131.72.76.184/ttorigin03/live/smil:BET.smil/chunklist_b2000000_slen.m3u8
+http://131.72.76.184/ttorigin03/live/smil:BET.smil/chunklist_b2000000_slen.m3u8
 #EXTINF:-1 group-title="USA" tvg-id="buzzertv.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/512px-Buzzr_logo.svg.png",BUZZR
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812bfbe4ced4f7b601b12e6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=23022078-db68-4a8c-ad1c-683fb029b53d
 #EXTINF:-1 group-title="USA" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/6f/a6/bf/6fa6bff4-2527-6c5d-1bc1-09e35b35440a/source/512x512bb.jpg",CineLife
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00308-magnoliapicture-cinelife-tcl/playlist.m3u8
 #EXTINF:-1 group-title="USA" tvg-id="cw11kvii.us" tvg-logo="https://static.epg.best/us/KOMUCW.us.png",CW11 HD
-https://131.72.76.184/ttorigin03/live/smil:CW11.smil/chunklist_b2000000.m3u8
+http://131.72.76.184/ttorigin03/live/smil:CW11.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://image.roku.com/developer_channels/prod/31170f949c1bfbac7a65d6da0d8c0bcc382e0f66ad93e3ca856b94857ea091a0.png",STIRR Comedy Dynamics
 https://cineverse.g-mana.live/media/398ffc79-3077-465f-9243-dc339de96212/mainManifest.m3u8
 #EXTINF:-1 group-title="Pluto-USA" tvg-id="" tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png",Pluto TV Action
@@ -24,13 +24,13 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-sams
 #EXTINF:-1 group-title="USA" tvg-id="popstar.us" tvg-logo="https://image.roku.com/developer_channels/prod/612c2c67a93a6e7fac4bbb51719da0aea9ecec392baaac6a2e9e5ac1b41e3c88.png",STIRR Popstar! TV
 https://linear-10.frequency.stream/dist/stirr/10/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-id="National Geographic Channel - NGC.tt" tvg-logo="https://static.epg.best/us/NatGeo.us.png",NATIONAL GEOGRAPHIC
-https://131.72.76.184/ttorigin07/live/smil:NATGEO.smil/chunklist_b2000000.m3u8
+http://131.72.76.184/ttorigin07/live/smil:NATGEO.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-id="msnbc - msnbc.tt" tvg-logo="https://static.epg.best/us/MSNBC.us.png",MSNBC HD
-https://131.72.76.184/ttorigin01/live/smil:MSNBC.smil/chunklist_b2000000.m3u8
+http://131.72.76.184/ttorigin01/live/smil:MSNBC.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-id="MTV (East) - MTV" tvg-logo="https://static.epg.best/us/MTV.us.png",MTV
-https://131.72.76.184/ttorigin07/live/smil:MTV.smil/chunklist_b2000000_slen.m3u8
+http://131.72.76.184/ttorigin07/live/smil:MTV.smil/chunklist_b2000000_slen.m3u8
 #EXTINF:-1 group-title="WESTERN" tvg-id="grit.us" tvg-logo="https://cms.scrippsnetworks.com/wp-content/uploads/2022/01/snn_logo-GRIT.png",Grit Network
-https://131.72.76.184/ttorigin01/live/smil:GRIT.smil/chunklist_b2000000.m3u8
+http://131.72.76.184/ttorigin01/live/smil:GRIT.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 group-title="ANIME" tvg-id="AnimeAllDay.us" tvg-logo="http://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png",Anime All Day
 http://416streams.sytes.net:5050/bananas-pencils-0w@icloud.com/5WGeznVS3N/566952
 #EXTINF:-1 group-title="KIDS" tvg-id="LEGOKidsTV.us" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/414vUJZ9MfL.png",LEGO Channels 
