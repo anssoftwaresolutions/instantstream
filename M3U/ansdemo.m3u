@@ -39,5 +39,5 @@ https://dltiqboxjw21d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 http://416streams.sytes.net:5050/bananas-pencils-0w@icloud.com/5WGeznVS3N/509086
 #EXTINF:-1 group-title="SPORTS" tvg-id="realmadridtv.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Realmadrid_Television_Logo.svg/330px-Realmadrid_Television_Logo.svg.png",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 tvg-name="Superman (2025)" tvg-logo="http://23.227.147.172:80/images/c7594148a53c7abd96621dd2a06a5e02.jpg" group-title="Movies",Superman (2025)
-https://tvnow.best/api/stream/Eddie708/T990/movie/tt5950044
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/The_Addams_Family_%28Tee_%26_Charles_Addams_Foundation%29_franchise_logo_%281%29.svg/500px-The_Addams_Family_%28Tee_%26_Charles_Addams_Foundation%29_franchise_logo_%281%29.svg.png",The Addams Family (1991)
+https://tvnow.best/api/stream/Eddie708/T990/movie/tt0101272
