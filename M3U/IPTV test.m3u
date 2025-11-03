@@ -1,19 +1,65 @@
-#EXTINF:-1 group-title="LOCAL" tvg-logo="https://www.cwc.com/assets/uploads/images/flow1.png",FLOW 1
-https://cwc-media.akamaized.net/hlslive/account=bpcMLsUITxmS/livestream=yopso73zkbmm/livestream=yopso73zkbmm.isml/livestream=yopso73zkbmm-audio=128000-video=2400000.m3u8
-#EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.ibb.co/yn9bk3q/download.jpg",RUSH PRIME
 https://cwc-media.akamaized.net/hlslive/account=bpcMLsUITxmS/livestream=yi4kpbjl0zqc/livestream=yi4kpbjl0zqc.isml/livestream=yi4kpbjl0zqc-audio=128000-video=2400000.m3u8
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/CNC3_Official_logo.png",CNC3 HD
 https://cwc-media.akamaized.net/hlslive/account=bpcMLsUITxmS/livestream=37xlodljmtqm/livestream=37xlodljmtqm.isml/livestream=37xlodljmtqm-audio=128000-video=2400000.m3u8
 #EXTINF:-1 group-title="LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/CCNTV6.png",TV6 HD
 https://cwc-media.akamaized.net/hlslive/account=bpcMLsUITxmS/livestream=1t5shvvll7kc/livestream=1t5shvvll7kc.isml/livestream=1t5shvvll7kc-audio=128000-video=2400000.m3u8
-#EXTINF:-1 group-title="LOCAL" tvg-ID="" https://uwitv-wp-media.s3.amazonaws.com/wp-content/uploads/2021/09/22135516/UWITV-Global-Logo.png",UWI TV
-https://cwc-media.akamaized.net/hlslive/account=bpcMLsUITxmS/livestream=4lpak73df3ie/livestream=4lpak73df3ie.isml/livestream=4lpak73df3ie-audio=128000-video=2400000.m3u8
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://www.cwc.com/assets/uploads/images/flow1.png",FLOW 1
+https://cwc-media.akamaized.net/hlslive/account=bpcMLsUITxmS/livestream=yopso73zkbmm/livestream=yopso73zkbmm.isml/livestream=yopso73zkbmm-audio=128000-video=2400000.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://discoverflow.co/sites/discoverflow.co.trinidad/files/Flow_Sports_Logo_Primary_RGB_0.png",FLOW SPORTS HD
 https://cwc-media.akamaized.net/hlslive/account=bpcMLsUITxmS/livestream=bahs2b3jhkmi/livestream=bahs2b3jhkmi.isml/livestream=bahs2b3jhkmi-audio=128000-video=2400000.m3u8
+#EXTINF:-1 group-title="LOCAL" tvg-logo="https://i.ibb.co/yn9bk3q/download.jpg",RUSH PRIME
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://discoverflow.co/sites/discoverflow.co.anguilla/files/Rush_0.png",RUSH
 https://cwc-media.akamaized.net/hlslive/account=bpcMLsUITxmS/livestream=sbhslnhjgjgi/livestream=sbhslnhjgjgi.isml/livestream=sbhslnhjgjgi-audio=128000-video=2400000.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://discoverflow.co/sites/discoverflow.co.anguilla/files/Rush_0.png",RUSH2
 https://cwc-media.akamaized.net/hlslive/account=bpcMLsUITxmS/livestream=wiwlsvllx6gi/livestream=wiwlsvllx6gi.isml/livestream=wiwlsvllx6gi-audio=128000-video=2400000.m3u8
+#EXTINF:-1 group-title="LOCAL" tvg-ID="" https://uwitv-wp-media.s3.amazonaws.com/wp-content/uploads/2021/09/22135516/UWITV-Global-Logo.png",UWI TV
+https://cwc-media.akamaized.net/hlslive/account=bpcMLsUITxmS/livestream=4lpak73df3ie/livestream=4lpak73df3ie.isml/livestream=4lpak73df3ie-audio=128000-video=2400000.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.cwc.com/assets/uploads/images/flow1.png",ABC
+http://41.205.93.154/ABC/index.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.cwc.com/assets/uploads/images/flow1.png",AMC
+http://41.205.93.154/AMC/index.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.cwc.com/assets/uploads/images/flow1.png",ANIMALPLANET
+http://41.205.93.154/ANIMALPLANET/index.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.cwc.com/assets/uploads/images/flow1.png",BBCONE
+http://41.205.93.154/BBCONE/index.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.cwc.com/assets/uploads/images/flow1.png",BBCTWO
+http://41.205.93.154/BBCTWO/index.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.cwc.com/assets/uploads/images/flow1.png",BBCTHREE
+http://41.205.93.154/BBCTHREE/index.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.cwc.com/assets/uploads/images/flow1.png",BET
+http://41.205.93.154/BET/index.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.cwc.com/assets/uploads/images/flow1.png",BRAVO
+http://41.205.93.154/BRAVO/index.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.cwc.com/assets/uploads/images/flow1.png",CBS
+http://41.205.93.154/CBS/index.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.cwc.com/assets/uploads/images/flow1.png",CNBC
+http://41.205.93.154/CNBC/index.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.cwc.com/assets/uploads/images/flow1.png",CNN
+http://41.205.93.154/CNN/index.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.cwc.com/assets/uploads/images/flow1.png",ESPN
+http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.cwc.com/assets/uploads/images/flow1.png",FOXBUSINESS
+http://41.205.93.154/FOXBUSINESS/index.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.cwc.com/assets/uploads/images/flow1.png",HBO
+http://41.205.93.154/HBO/index.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.cwc.com/assets/uploads/images/flow1.png",HISTORY
+http://41.205.93.154/HISTORY/index.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.cwc.com/assets/uploads/images/flow1.png",LIFETIME
+http://41.205.93.154/LIFETIME/index.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.cwc.com/assets/uploads/images/flow1.png",NBA
+http://41.205.93.154:80/NBA/index.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.cwc.com/assets/uploads/images/flow1.png",NBC
+http://41.205.93.154/NBC/index.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.cwc.com/assets/uploads/images/flow1.png",NICKTOONS
+http://41.205.93.154/NICKTOONS/index.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.cwc.com/assets/uploads/images/flow1.png",MSNBC
+http://41.205.93.154:80/MSNBC/index.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.cwc.com/assets/uploads/images/flow1.png",STARSPORTS1
+http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.cwc.com/assets/uploads/images/flow1.png",SYFY
+http://41.205.93.154/SYFY/index.m3u8
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.cwc.com/assets/uploads/images/flow1.png",TBS
+http://41.205.93.154/TBS/index.m3u8
 #EXTINF:-1,AXN HD
 https://streamer1.nexgen.bz/AXN/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="http://ky-iptv.com:80/images/227c5a7767e2742104de1c193474174b.png",HBO XTREME FHD
