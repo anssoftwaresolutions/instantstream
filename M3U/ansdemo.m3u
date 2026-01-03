@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="•●★--- ANS Demo ----★●•" tvg-logo="https://raw.githubusercontent.com/anssoftwaresolutions/media/main/INSTANTSTREAM%20ANS%20Demo.png",•●★--- ANS Demo ---★●•
+https://raw.githubusercontent.com/anssoftwaresolutions/media/main/INSTANTSTREAM%20ANS%20Demo.mp4
 #EXTINF:-1 group-title="TRINIDAD" tvg-id="CNC3.tt" tvg-logo="https://static.epg.best/tt/CNCTV3.tt.png",CNC3
 http://131.72.76.184/ttorigin01/live/smil:CNC3.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 group-title="BOLLYWOOD" tvg-id="ieTV Channel 1 - ieTV.tt" tvg-logo="https://i.pinimg.com/originals/c6/13/81/c6138176971c6df4c6b6c880b3ba757a.jpg",IETV
@@ -39,73 +41,5 @@ https://dltiqboxjw21d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 http://416streams.sytes.net:5050/bananas-pencils-0w@icloud.com/5WGeznVS3N/509086
 #EXTINF:-1 group-title="SPORTS" tvg-id="realmadridtv.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Realmadrid_Television_Logo.svg/330px-Realmadrid_Television_Logo.svg.png",Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg",Mission: Impossible - The Final Reckoning (2025)
-https://tvnow.best/api/stream/Eddie708/T990/movie/tt9603208
-#EXTINF:-1 tvg-id="" tvg-name="❄ Home Alone ᴴᴰ" tvg-logo="https://png.pngtree.com/png-clipart/20221013/original/pngtree-happy-holidays-lettering-in-green-and-red-style-png-image_8679610.png" group-title="HAPPY HOLIDAYS",❄ Home Alone ᴴᴰ
-http://416streams.sytes.net:5050/bananas-pencils-0w@icloud.com/5WGeznVS3N/767919
-#EXTINF:-1 tvg-id="" tvg-name="❄ Xmas-Premiere 1 ᴴᴰ" tvg-logo="https://png.pngtree.com/png-clipart/20221013/original/pngtree-happy-holidays-lettering-in-green-and-red-style-png-image_8679610.png" group-title="HAPPY HOLIDAYS",❄ Xmas-Premiere 1 ᴴᴰ
-http://416streams.sytes.net:5050/bananas-pencils-0w@icloud.com/5WGeznVS3N/767920
-#EXTINF:-1 tvg-id="" tvg-name="❄ Xmas-Premiere 2 ᴴᴰ" tvg-logo="https://png.pngtree.com/png-clipart/20221013/original/pngtree-happy-holidays-lettering-in-green-and-red-style-png-image_8679610.png" group-title="HAPPY HOLIDAYS",❄ Xmas-Premiere 2 ᴴᴰ
-http://416streams.sytes.net:5050/bananas-pencils-0w@icloud.com/5WGeznVS3N/767921
-#EXTINF:-1 tvg-id="" tvg-name="❄ Xmas-Premiere 3 ᴴᴰ" tvg-logo="https://png.pngtree.com/png-clipart/20221013/original/pngtree-happy-holidays-lettering-in-green-and-red-style-png-image_8679610.png" group-title="HAPPY HOLIDAYS",❄ Xmas-Premiere 3 ᴴᴰ
-http://416streams.sytes.net:5050/bananas-pencils-0w@icloud.com/5WGeznVS3N/767922
-#EXTINF:-1 tvg-id="" tvg-name="❄ Xmas-Movie 1 ᴴᴰ" tvg-logo="https://png.pngtree.com/png-clipart/20221013/original/pngtree-happy-holidays-lettering-in-green-and-red-style-png-image_8679610.png" group-title="HAPPY HOLIDAYS",❄ Xmas-Movie 1 ᴴᴰ
-http://416streams.sytes.net:5050/bananas-pencils-0w@icloud.com/5WGeznVS3N/767923
-#EXTINF:-1 tvg-id="" tvg-name="❄ Xmas-Movie 2 ᴴᴰ" tvg-logo="https://png.pngtree.com/png-clipart/20221013/original/pngtree-happy-holidays-lettering-in-green-and-red-style-png-image_8679610.png" group-title="HAPPY HOLIDAYS",❄ Xmas-Movie 2 ᴴᴰ
-http://416streams.sytes.net:5050/bananas-pencils-0w@icloud.com/5WGeznVS3N/767924
-#EXTINF:-1 tvg-id="" tvg-name="❄ Xmas-Movie 3 ᴴᴰ" tvg-logo="https://png.pngtree.com/png-clipart/20221013/original/pngtree-happy-holidays-lettering-in-green-and-red-style-png-image_8679610.png" group-title="HAPPY HOLIDAYS",❄ Xmas-Movie 3 ᴴᴰ
-http://416streams.sytes.net:5050/bananas-pencils-0w@icloud.com/5WGeznVS3N/767925
-#EXTINF:-1 tvg-id="" tvg-name="❄ Xmas-Junior 1 ᴴᴰ" tvg-logo="https://png.pngtree.com/png-clipart/20221013/original/pngtree-happy-holidays-lettering-in-green-and-red-style-png-image_8679610.png" group-title="HAPPY HOLIDAYS",❄ Xmas-Junior 1 ᴴᴰ
-http://416streams.sytes.net:5050/bananas-pencils-0w@icloud.com/5WGeznVS3N/767926
-#EXTINF:-1 tvg-id="" tvg-name="❄ Xmas-Junior 2 ᴴᴰ" tvg-logo="https://png.pngtree.com/png-clipart/20221013/original/pngtree-happy-holidays-lettering-in-green-and-red-style-png-image_8679610.png" group-title="HAPPY HOLIDAYS",❄ Xmas-Junior 2 ᴴᴰ
-http://416streams.sytes.net:5050/bananas-pencils-0w@icloud.com/5WGeznVS3N/767927
-#EXTINF:-1 tvg-id="" tvg-name="❄ Xmas-Kids 1 ᴴᴰ" tvg-logo="https://png.pngtree.com/png-clipart/20221013/original/pngtree-happy-holidays-lettering-in-green-and-red-style-png-image_8679610.png" group-title="HAPPY HOLIDAYS",❄ Xmas-Kids 1 ᴴᴰ
-http://416streams.sytes.net:5050/bananas-pencils-0w@icloud.com/5WGeznVS3N/767928
-#EXTINF:-1 tvg-id="" tvg-name="❄ Xmas-Kids 2 ᴴᴰ" tvg-logo="https://png.pngtree.com/png-clipart/20221013/original/pngtree-happy-holidays-lettering-in-green-and-red-style-png-image_8679610.png" group-title="HAPPY HOLIDAYS",❄ Xmas-Kids 2 ᴴᴰ
-http://416streams.sytes.net:5050/bananas-pencils-0w@icloud.com/5WGeznVS3N/767929
-#EXTINF:-1 tvg-id="" tvg-name="❄ Xmas-Show ᴴᴰ" tvg-logo="https://png.pngtree.com/png-clipart/20221013/original/pngtree-happy-holidays-lettering-in-green-and-red-style-png-image_8679610.png" group-title="HAPPY HOLIDAYS",❄ Xmas-Show ᴴᴰ
-http://416streams.sytes.net:5050/bananas-pencils-0w@icloud.com/5WGeznVS3N/767930
-#EXTINF:-1 tvg-id="" tvg-name="❄ Xmas-Music 1 ᴴᴰ" tvg-logo="https://png.pngtree.com/png-clipart/20221013/original/pngtree-happy-holidays-lettering-in-green-and-red-style-png-image_8679610.png" group-title="HAPPY HOLIDAYS",❄ Xmas-Music 1 ᴴᴰ
-http://416streams.sytes.net:5050/bananas-pencils-0w@icloud.com/5WGeznVS3N/767931
-#EXTINF:-1 tvg-id="" tvg-name="❄ Xmas-Music 2 ᴴᴰ" tvg-logo="https://png.pngtree.com/png-clipart/20221013/original/pngtree-happy-holidays-lettering-in-green-and-red-style-png-image_8679610.png" group-title="HAPPY HOLIDAYS",❄ Xmas-Music 2 ᴴᴰ
-http://416streams.sytes.net:5050/bananas-pencils-0w@icloud.com/5WGeznVS3N/767932
-#EXTINF:-1 tvg-id="" tvg-name="❄ Atmosphere 1 ᴴᴰ" tvg-logo="https://png.pngtree.com/png-clipart/20221013/original/pngtree-happy-holidays-lettering-in-green-and-red-style-png-image_8679610.png" group-title="HAPPY HOLIDAYS",❄ Atmosphere 1 ᴴᴰ
-http://416streams.sytes.net:5050/bananas-pencils-0w@icloud.com/5WGeznVS3N/767933
-#EXTINF:-1 tvg-id="" tvg-name="❄ Atmosphere 2 ᴴᴰ" tvg-logo="https://png.pngtree.com/png-clipart/20221013/original/pngtree-happy-holidays-lettering-in-green-and-red-style-png-image_8679610.png" group-title="HAPPY HOLIDAYS",❄ Atmosphere 2 ᴴᴰ
-http://416streams.sytes.net:5050/bananas-pencils-0w@icloud.com/5WGeznVS3N/767934
-#EXTINF:-1 tvg-id="" tvg-name="❄ Ambient 1 ᴴᴰ" tvg-logo="https://png.pngtree.com/png-clipart/20221013/original/pngtree-happy-holidays-lettering-in-green-and-red-style-png-image_8679610.png" group-title="HAPPY HOLIDAYS",❄ Ambient 1 ᴴᴰ
-http://416streams.sytes.net:5050/bananas-pencils-0w@icloud.com/5WGeznVS3N/767935
-#EXTINF:-1 tvg-id="" tvg-name="❄ Ambient 2 ᴴᴰ" tvg-logo="https://png.pngtree.com/png-clipart/20221013/original/pngtree-happy-holidays-lettering-in-green-and-red-style-png-image_8679610.png" group-title="HAPPY HOLIDAYS",❄ Ambient 2 ᴴᴰ
-http://416streams.sytes.net:5050/bananas-pencils-0w@icloud.com/5WGeznVS3N/767936
-#EXTINF:-1 tvg-id="" tvg-name="❄ Ambient 3 ᴴᴰ" tvg-logo="https://png.pngtree.com/png-clipart/20221013/original/pngtree-happy-holidays-lettering-in-green-and-red-style-png-image_8679610.png" group-title="HAPPY HOLIDAYS",❄ Ambient 3 ᴴᴰ
-http://416streams.sytes.net:5050/bananas-pencils-0w@icloud.com/5WGeznVS3N/767937
-#EXTINF:-1 tvg-id="" tvg-name="❄ Ambient 4 ᴴᴰ" tvg-logo="https://png.pngtree.com/png-clipart/20221013/original/pngtree-happy-holidays-lettering-in-green-and-red-style-png-image_8679610.png" group-title="HAPPY HOLIDAYS",❄ Ambient 4 ᴴᴰ
-http://416streams.sytes.net:5050/bananas-pencils-0w@icloud.com/5WGeznVS3N/767938
-#EXTINF:-1 tvg-id="" tvg-name="❄ Ambient 5 ᴴᴰ" tvg-logo="https://png.pngtree.com/png-clipart/20221013/original/pngtree-happy-holidays-lettering-in-green-and-red-style-png-image_8679610.png" group-title="HAPPY HOLIDAYS",❄ Ambient 5 ᴴᴰ
-http://416streams.sytes.net:5050/bananas-pencils-0w@icloud.com/5WGeznVS3N/767939
-#EXTINF:-1 tvg-id="" tvg-name="❄ Hallmark Channel info ᴴᴰ" tvg-logo="https://iili.io/KyiaWLx.th.png" group-title="HAPPY HOLIDAYS",❄ Hallmark Channel info ᴴᴰ
-http://416streams.sytes.net:5050/bananas-pencils-0w@icloud.com/5WGeznVS3N/767940
-#EXTINF:-1 tvg-id="" tvg-name="❄ Hallmark Channel 1 ᴴᴰ" tvg-logo="https://iili.io/KyiaWLx.th.png" group-title="HAPPY HOLIDAYS",❄ Hallmark Channel 1 ᴴᴰ
-http://416streams.sytes.net:5050/bananas-pencils-0w@icloud.com/5WGeznVS3N/767941
-#EXTINF:-1 tvg-id="" tvg-name="❄ Hallmark Channel 2 ᴴᴰ" tvg-logo="https://iili.io/KyiaWLx.th.png" group-title="HAPPY HOLIDAYS",❄ Hallmark Channel 2 ᴴᴰ
-http://416streams.sytes.net:5050/bananas-pencils-0w@icloud.com/5WGeznVS3N/767942
-#EXTINF:-1 tvg-id="" tvg-name="❄ Hallmark Channel 3 ᴴᴰ" tvg-logo="https://iili.io/KyiaWLx.th.png" group-title="HAPPY HOLIDAYS",❄ Hallmark Channel 3 ᴴᴰ
-http://416streams.sytes.net:5050/bananas-pencils-0w@icloud.com/5WGeznVS3N/767943
-#EXTINF:-1 tvg-id="" tvg-name="❄ Hallmark Channel 4 ᴴᴰ" tvg-logo="https://iili.io/KyiaWLx.th.png" group-title="HAPPY HOLIDAYS",❄ Hallmark Channel 4 ᴴᴰ
-http://416streams.sytes.net:5050/bananas-pencils-0w@icloud.com/5WGeznVS3N/767944
-#EXTINF:-1 tvg-id="" tvg-name="❄ Hallmark Channel 5 ᴴᴰ" tvg-logo="https://iili.io/KyiaWLx.th.png" group-title="HAPPY HOLIDAYS",❄ Hallmark Channel 5 ᴴᴰ
-http://416streams.sytes.net:5050/bananas-pencils-0w@icloud.com/5WGeznVS3N/767945
-#EXTINF:-1 tvg-id="" tvg-name="❄ Hallmark Channel 6 ᴴᴰ" tvg-logo="https://iili.io/KyiaWLx.th.png" group-title="HAPPY HOLIDAYS",❄ Hallmark Channel 6 ᴴᴰ
-http://416streams.sytes.net:5050/bananas-pencils-0w@icloud.com/5WGeznVS3N/767946
-#EXTINF:-1 tvg-id="" tvg-name="❄ Hallmark Channel 7 ᴴᴰ" tvg-logo="https://iili.io/KyiaWLx.th.png" group-title="HAPPY HOLIDAYS",❄ Hallmark Channel 7 ᴴᴰ
-http://416streams.sytes.net:5050/bananas-pencils-0w@icloud.com/5WGeznVS3N/767947
-#EXTINF:-1 tvg-id="" tvg-name="❄ Hallmark Channel 8 ᴴᴰ" tvg-logo="https://iili.io/KyiaWLx.th.png" group-title="HAPPY HOLIDAYS",❄ Hallmark Channel 8 ᴴᴰ
-http://416streams.sytes.net:5050/bananas-pencils-0w@icloud.com/5WGeznVS3N/767948
-#EXTINF:-1 tvg-id="" tvg-name="❄ Hallmark Channel 9 ᴴᴰ" tvg-logo="https://iili.io/KyiaWLx.th.png" group-title="HAPPY HOLIDAYS",❄ Hallmark Channel 9 ᴴᴰ
-http://416streams.sytes.net:5050/bananas-pencils-0w@icloud.com/5WGeznVS3N/767949
-#EXTINF:-1 tvg-id="" tvg-name="❄ Hallmark Channel 10 ᴴᴰ" tvg-logo="https://iili.io/KyiaWLx.th.png" group-title="HAPPY HOLIDAYS",❄ Hallmark Channel 10 ᴴᴰ
-http://416streams.sytes.net:5050/bananas-pencils-0w@icloud.com/5WGeznVS3N/767950
-#EXTINF:-1 tvg-id="" tvg-name="❄ Hallmark Channel 11 ᴴᴰ" tvg-logo="https://iili.io/KyiaWLx.th.png" group-title="HAPPY HOLIDAYS",❄ Hallmark Channel 11 ᴴᴰ
-http://416streams.sytes.net:5050/bananas-pencils-0w@icloud.com/5WGeznVS3N/767951
-#EXTINF:-1 tvg-id="" tvg-name="❄ Hallmark Channel 12 ᴴᴰ" tvg-logo="https://iili.io/KyiaWLx.th.png" group-title="HAPPY HOLIDAYS",❄ Hallmark Channel 12 ᴴᴰ
-http://416streams.sytes.net:5050/bananas-pencils-0w@icloud.com/5WGeznVS3N/767952
+#EXTINF:-1 group-title="Movies" tvg-logo="http://185.193.88.130:80/images/21e8b69b2d1cce1cc5a61dcbdf2506b2.jpg",The Fantastic 4: First Steps (2025)
+https://tvnow.best/api/stream/Eddie708/T990/movie/tt10676052
