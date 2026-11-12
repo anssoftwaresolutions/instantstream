@@ -6,7 +6,7 @@ https://131.72.76.184/ttorigin03/live/smil:n_CNC3.smil/chunklist_b2000000_slen.m
 #EXTINF:-1 group-title="🇮🇳BOLLYWOOD🇮🇳" tvg-id="ieTV Channel 1 - ieTV.tt" tvg-logo="https://i.pinimg.com/originals/c6/13/81/c6138176971c6df4c6b6c880b3ba757a.jpg",IETV
 https://131.72.76.184/ttorigin03/live/smil:IETV.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 group-title="🇮🇳BOLLYWOOD🇮🇳" tvg-id="shemaroomarathibana.in" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png",Shemaroo Bollywood
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸USA🇺🇸" tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="🇺🇸USA🇺🇸" tvg-id="bet.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/BET-2021Logo.svg/500px-BET-2021Logo.svg.png",BET East
